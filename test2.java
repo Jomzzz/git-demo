@@ -6,6 +6,6 @@
  *@create 2025/10/6 2:22
  **/public class test2 {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("hello world -jom");
     }
 }
